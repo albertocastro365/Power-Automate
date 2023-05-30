@@ -9,4 +9,5 @@ Usando esta plantilla podremos recibir tanto una notificación si el flow se ejc
 3. En el scope 'Try' meter todas las acciones de vuestra automatización y que serán monitorizadas por el control de errores.
 4. En la variable 'varRecipientsMail' introducir las cuentas de correos a las que llegarán las notificaciones.
 
-![image](https://github.com/albertocastro365/Power-Automate/assets/57954993/2c3e7b89-66e0-45bd-83a5-f046fa8d6922)
+![image](https://github.com/albertocastro365/Power-Automate/assets/57954993/02bfcfe2-8a66-4058-b18c-6e5444b9769e)
+
