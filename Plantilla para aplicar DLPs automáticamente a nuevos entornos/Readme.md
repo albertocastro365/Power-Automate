@@ -6,7 +6,7 @@ Además estos entornos tienen muchas limitaciones y deberían ser sólo usados p
 
 Entonces, ya que no podemos evitar su creación, minimicemos más su capacidad aplicando una DLP de manera automática, para tener al menos controlado ese aspecto.
 
-#Requisitos
+# Requisitos
 - CoE Starter Kit instalado
 - DLP configurada
 
