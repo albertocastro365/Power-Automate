@@ -4,6 +4,7 @@ Para tener aceso a esta información se requiere de al menos un rol de Azure Pow
 Esta solución revisa cada día si hay novedades sobre la Power Platform y nos envia la entrada por correo.
 
 # Requisitos
+- Licencia Power Automate Premium
 - Aplicación de Azure
   -   Permisos sobre la API de "Graph ServiceMessage.Read.All" y marcado el Grant admin
   -   Secreto generado y guardado en Key Vault
