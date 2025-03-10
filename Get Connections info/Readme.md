@@ -7,7 +7,7 @@ Puede que para identificar las conexiones realizadas con un conector a punto de 
 # Instrucciones
 1. Descargar el .zip de este repo
 2. Importar en vuestro entorno 
-3. Más información aqui: https://medium.com/p/ba04be12d025
+3. Más información aqui: [https://medium.com/p/ba04be12d025](https://albertocastro365.medium.com/obt%C3%A9n-datos-de-las-conexiones-en-tu-power-platform-ba04be12d025)
 
 ![image](https://github.com/user-attachments/assets/9d154e4c-5f5a-43ab-adb7-e7e18cdbe77c)
 
